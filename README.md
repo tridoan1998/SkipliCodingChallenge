@@ -71,12 +71,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Steps to run the project:
+
 Step 1:
+
 Download/Clone the project by typing command git clone 
 Navigate to the downloaded folder.
+
 Step 2:
+
 Navigate to folder frontend
+
 Type a command "npm install" in terminal to install all the dependencies
+
 Then "npm start" to start the application
 Step 3:
 Navigate to folder backend
